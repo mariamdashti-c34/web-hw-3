@@ -1,0 +1,37 @@
+html, body {
+    height: 100%;
+  }
+  
+  .full-height {
+    height: 100%;
+  }
+  .restaurants{
+      background-color: bisque;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+  .mcdonalds{
+      color: burlywood;
+      background-color: khaki;
+      height: 100%;
+      width: 100%;
+      margin-top: 10%;
+      margin-bottom: 10%;
+  }
+  .burgerKing{
+    color: burlywood;
+    background-color: khaki;
+    height: 100%;
+    width: 100%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+  }
+  .tacoBell{
+    color: linen;
+    background-color: navajowhite;
+    height: 100%;
+    width: 100%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+  }
